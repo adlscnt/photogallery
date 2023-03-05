@@ -1,2 +1,3 @@
 # photogallery
-Photo Gallery
+## Photo Gallery
+### Custom-built using HTML, CSS
